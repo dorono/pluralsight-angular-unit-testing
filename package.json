@@ -1,0 +1,24 @@
+{
+  "name": "pluralsight-unit-testing",
+  "version": "1.0.0",
+  "description": "Base files to use for following along with Pluralsight tutorial on Unit Testing with AngularJS:",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "connect": "^3.4.1",
+    "serve-static": "^1.10.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorono/pluralsight-angular-unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorono/pluralsight-angular-unit-testing/issues"
+  },
+  "homepage": "https://github.com/dorono/pluralsight-angular-unit-testing#readme"
+}
