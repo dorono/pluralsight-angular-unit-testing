@@ -9,3 +9,5 @@ To setup project:
 To start the server
 
 ``server.js``
+
+Navigate to: http://localhost:8080/SpecRunner.html
